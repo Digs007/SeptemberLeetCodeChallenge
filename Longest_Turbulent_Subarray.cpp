@@ -1,7 +1,7 @@
 
 // Leetcode September Challenge : https://leetcode.com/explore/challenge/card/september-leetcoding-challenge-2021/638/week-3-september-15th-september-21st/3976/
 // Difficulty - Medium
-// 565. Array Nesting - https://leetcode.com/problems/longest-turbulent-subarray/
+// 978. Longest Turbulent Subarray - https://leetcode.com/problems/longest-turbulent-subarray/
 // Time complexity : O(n)
 // Space Complexity : o(1)
 
